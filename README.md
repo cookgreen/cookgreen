@@ -24,7 +24,9 @@ I'm enthusiastic about open-source game development, clean code architecture, an
 
 <div align="center">
   
-  **Thanks for visiting my profile! Explore my repositories, check out my projects on ModDB, and feel free to reach out for collaboration.** ✨
+  **Thanks for visiting my profile!**  
+    
+  **Explore my repositories, check out my projects on ModDB, and feel free to reach out for collaboration.** ✨
   
   ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=cookgreen.cookgreen)
   
