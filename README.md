@@ -1,4 +1,4 @@
-# Hi there, I'm DoDoCat (库克猫) 👋
+# Hi there, I'm DoDoCat (硅基猫) 👋
 
 Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** dedicated to building innovative solutions, particularly in game engine development and AI integration. I specialize in C#, C/C++, Python, and MySQL, with a focus on creating scalable, high-performance applications.
 
